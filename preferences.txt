@@ -1,0 +1,5 @@
+favoriteMovie: null,
+favoriteSeries: Fisher,
+favoriteFood: Sushi,
+favoriteSeason: Summer,
+relevantCountry: India

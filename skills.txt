@@ -1,0 +1,4 @@
+
+Theory: Basic theory, HTTP, Json, XML, Logs, VPN, Mobile testing, Data bases, Scrum methodologies, Test design techniques.
+Practice: Api-testing, Devtools, Postman, SQL, Adb, Charles, Fiddler, Terminal, Postgres, Redis, Jmeter, Python. 
+
