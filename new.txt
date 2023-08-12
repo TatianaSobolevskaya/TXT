@@ -1,0 +1,12 @@
+
+    firstName: Tatiana,
+    lastName: Sobolevskaya,
+    surName: Yuryevna,
+    age: 26,
+    desiredSalary: 1000,
+    desiredSalaryCurrency: USD,
+    petsPresence: true,
+    pets:  
+        petsNumber: 1,
+        petsType: Dog,
+        petsName: Barney
