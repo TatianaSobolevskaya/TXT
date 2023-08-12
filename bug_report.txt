@@ -1,0 +1,19 @@
+Summary: Неверная формулировка текста подсказки под полем ввода email на странице авторизации,
+Severity: Trivial,
+Component: Authorization,
+FixVersion: 2.5.6.8,
+Priority: Hight,
+Status: Open,
+Author: Tatiana Sobolevskaya,
+Reporter: Tatiana Sobolevskaya,
+Assigned To: Some business analyst,
+Description: 
+Steps to reproduce: 
+    Step1: Перейти на страницу авторизации http://shop.bugred.ru/user/login/index
+  Result: Неверная формулировка текста подсказки под полем ввода email,
+  Attachment: https://ltdfoto.ru/images/2023/08/11/Screenshot_1.png,
+  Expected Result: Ожидается текст, который по своему содержанию не навредит репутации компании,
+  Environment:
+  Browser:Google chrome, версия 115.0.5790.171
+  System:Windows 11 Pro, версия 22H2.
+   
